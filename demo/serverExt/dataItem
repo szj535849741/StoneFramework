@@ -1,0 +1,1 @@
+<root><ip_info><deal_info><deal_num><int>1</int></deal_num></deal_info><ip_num><int>2</int></ip_num><listen_info><listen_num><int>2</int></listen_num></listen_info><net_data1><ip_1><string>127.0.0.1</string></ip_1><port_1><int>9987</int></port_1></net_data1><net_data2><ip_2><string>127.0.0.1</string></ip_2><port_2><int>9988</int></port_2></net_data2></ip_info></root>
